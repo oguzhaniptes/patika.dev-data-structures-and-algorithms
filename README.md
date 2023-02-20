@@ -1,1 +1,5 @@
-# patika.dev-veri-yapilari-ve-algoritmalar
+# Patika.dev Data Structures and Algorithms
+
+## [Profile](https://app.patika.dev/oguzhaniptes)
+
+- Project 1 -> Selection Short 
