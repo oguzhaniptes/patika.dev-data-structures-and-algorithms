@@ -2,4 +2,4 @@
 
 ## [Profile](https://app.patika.dev/oguzhaniptes)
 
-- Project 1 -> Selection Short 
+- Project 1 -> Selection Sort 
